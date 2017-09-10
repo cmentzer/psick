@@ -1,4 +1,3 @@
 ---
-  profiles:
-    - profile::nginx
-
+profiles:
+  - profile::nginx::tp
